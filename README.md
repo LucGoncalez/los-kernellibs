@@ -8,3 +8,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 	.../LuckyOS/src/libs/kernel
 ```
+
+## Revisões ##
+
+* **build-000:** Para implementação de *kernel.000*
