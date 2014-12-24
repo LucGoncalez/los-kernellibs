@@ -11,6 +11,7 @@ Para um correto funcionamento, este repositório deve estar localizado no diret�
 
 ## Revisões ##
 
+* **build-008:** Para implementação de *kernel.006*
 * **build-007:** Para implementação de *kernel.005*
 * **build-006:** Para implementação de *kernel.004*
 * **build-005:** Movendo GrossCRT para *LOS-DriversLibs*
